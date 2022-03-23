@@ -1,0 +1,38 @@
+body{
+    margin:20px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+/*table*/
+#table-content{
+    margin-left: auto;
+    margin-right: auto;
+}
+.table-name{
+    background-color: grey;
+}
+.row-name{
+    background-color: grey;
+}
+.above-70{
+    background-color: lime;
+}
+.above-40{
+    background-color: orange;
+}
+.above-15{
+    background-color: yellow;
+}
+.below-15{
+    background-color: red;
+}
+table,caption,th,td{
+    border: 1px solid black;
+}
+/*back to home*/
+.go_back{
+    text-align: center;
+    text-shadow: 2rem;
+    color: green;
+}
